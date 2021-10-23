@@ -1,4 +1,4 @@
-### Olá! 👋
+### Oi! Eu sou o Bruno 😄 
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JavaScript e Dart
