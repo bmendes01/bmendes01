@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Bruno 😄 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript e Dart
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando Java
 - 📫 Contate-me no email: mendesbruno717@gmail.com
 
 
