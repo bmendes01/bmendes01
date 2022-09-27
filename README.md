@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Bruno 😄 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java
+- 🔭 Hoje trabalho com desenvolvimento mobile
+- 🌱 Estudando Kotlin
 - 📫 Contate-me no email: mendesbruno717@gmail.com
 
 
